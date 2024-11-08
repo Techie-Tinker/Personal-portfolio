@@ -13,7 +13,7 @@ nav{
 nav ul{
     display: flex;
     list-style-type: none;
-    background-color: pink;
+    background-color: darkgray;
     padding: 20px;
     margin: 0 0 0 auto;
 }
